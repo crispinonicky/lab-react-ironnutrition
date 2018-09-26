@@ -26,3 +26,19 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.list{
+  width: 60vw;
+  margin-left: 20vw;
+  padding-top: 7vh;
+}
+
+.title{
+  padding-top: 5vh;
+  font-size: 30px;
+}
+
+/* .add-food{
+  width: 30vw;
+  display: flex;
+} */
